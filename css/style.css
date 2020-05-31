@@ -8462,7 +8462,6 @@ h1, h2, h3, h4, h5,
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 0%;
   z-index: 2; }
 
 .mouse-icon {
@@ -8476,7 +8475,7 @@ h1, h2, h3, h4, h5,
   display: block; }
   .mouse-icon:after {
     position: absolute;
-    top: 0;
+    top: 90%;
     left: 0;
     right: 0;
     bottom: 0;
