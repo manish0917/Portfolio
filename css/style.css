@@ -8461,8 +8461,8 @@ h1, h2, h3, h4, h5,
 .mouse {
   position: absolute;
   left: 0;
-  bottom: 120px;
   right: 0;
+  bottom: 0px;
   z-index: 2; }
 
 .mouse-icon {
